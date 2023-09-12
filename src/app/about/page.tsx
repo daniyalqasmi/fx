@@ -29,7 +29,7 @@ export default function About() {
                         Telecom Operators: (Revolutionizing Connectivity)
                     </h2>
                     <p className="leading-7 [&:not(:first-child)]:mt-6  text-myblue">
-                        At its core, FutureTekni remains deeply committed to revolutionizing the telecommunication industry. With cutting-edge technologies in 5G, IoT, and satellite communications, the company has enabled Telecom Operators worldwide to provide faster, more reliable, and secure connectivity to billions of people. FutureTeknis solutions have ushered in a new era of digital communication, connecting individuals, businesses, and governments in ways previously unimaginable.
+                        At its core, FutureTekni remains deeply committed to revolutionizing the telecommunications industry. With cutting-edge technologies in 5G, IoT, and satellite communications, the company has enabled Telecom Operators worldwide to provide faster, more reliable, and secure connectivity to billions of people. FutureTeknis solutions have ushered in a new era of digital communication, connecting individuals, businesses, and governments in ways previously unimaginable.
                     </p>
                     <h2 className="scroll-m-20 border-b pb-2 text-3xl font-semibold tracking-tight transition-colors  first:mt-0 text-myred uppercase mt-7">
                         Defence, Marine, and Aviation: (Securing the Unseen Frontiers)
