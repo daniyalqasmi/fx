@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function About() {
     return (
-        <div><section className="text-gray-600 body-font">
+        <div><section className="text-gray-600 body-font mb-[100px] mt-[100px]">
             <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
                 <div className="flex title-font font-medium items-center md:justify-start justify-center text-myorange">
                     <Image src={"/assest/FXlogo-01.png"} alt="logo" width={300} height={300} />

@@ -18,7 +18,7 @@ import {
 const components: { title: string; href: string; description: string }[] = [
   {
     title: "Electronic Components",
-    href: "/electronic_Components",
+    href: "/electronic",
     description:
       "Futureteknix is a high-service distribution partner of technology products, services and solutions for electronic system design, maintenance and repair.",
   },
